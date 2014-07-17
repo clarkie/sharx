@@ -1,3 +1,3 @@
 modules.export = function() {
-	return 'sharx';
+	return "sharx";
 };
